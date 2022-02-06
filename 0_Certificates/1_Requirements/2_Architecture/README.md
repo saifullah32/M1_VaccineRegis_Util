@@ -1,6 +1,5 @@
-# Architecture
+Architecture
 
-## Design
-* Structural
-* Behavioural
+Design
+
 * Flowcharts
