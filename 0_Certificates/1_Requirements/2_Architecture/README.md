@@ -1,5 +1,0 @@
-Architecture
-
-Design
-
-* Flowcharts
