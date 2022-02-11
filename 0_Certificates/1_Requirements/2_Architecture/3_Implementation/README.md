@@ -1,2 +1,0 @@
-# Implementation 
- * In C Programming
