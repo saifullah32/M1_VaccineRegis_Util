@@ -15,7 +15,7 @@
   * Only new user must be given an option to select vaccine type.
   * Total quantity of vaccines used must be shown by EOD.
   * Remaining and present stock of vaccines must be tracked.
-
+---
 ## SWOT Analysis
 
 ### STRENTHS
@@ -32,6 +32,7 @@
 
 ### THREATS
   * Requires personal data of the people and encryption of the data is not enabled in the program.
+   ----
 
 ## 4 W's and 1 H
 
